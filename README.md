@@ -1,2 +1,2 @@
 # Lab1-GitHub-Pages
-Minghui's User Page
+Minghui's User Page.  
