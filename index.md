@@ -2,7 +2,6 @@
 ## My README:
 [readme](README.md)  
 ## My favorite programming language: 
-[working_experience](#working-experience)
 Use `javac filename` to compile  
 ## Programming languages that I know:  
 - C/C++
