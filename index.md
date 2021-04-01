@@ -1,6 +1,6 @@
 # Minghui's User Page
 ## My README:
-[readme](../README.md)
+[readme](README.md)
 ## My favorite programming language: 
 [working_experience](#working-experience)
 Use `javac filename` to compile
