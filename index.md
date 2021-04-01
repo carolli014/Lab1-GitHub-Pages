@@ -1,7 +1,7 @@
 # Minghui's User Page
 ## My README:
 [readme](../README.md)
-## [My favorite programming language:](https://www.java.com/en/)
+## My favorite programming language:
 Use `javac filename` to compile
 ## Programming languages that I know:
 - C/C++
