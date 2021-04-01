@@ -9,9 +9,9 @@ Use `javac filename` to compile
 - Python
 - JavaScript
 ## Working Experience:
-**CSE Tutor**
-*January 2021 to current*
-~~CSE 11 _Winter_~~
+**CSE Tutor**  
+*January 2021 to current*  
+~~CSE 11 _Winter_~~  
 **CSE 8A _Spring_**
 ## My LinkedIn Profile:
 [linkedin](https://www.linkedin.com/in/minghui-li-865a921b3/)
