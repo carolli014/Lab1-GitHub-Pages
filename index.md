@@ -1,5 +1,5 @@
 # Minghui's User Page 
-## [Contact Me](#my_linkedin_profile)
+#### [Contact Me](#my-linkedin-profile)
 ## My README:
 [readme](README.md)  
 ## My favorite programming language: 
